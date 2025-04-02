@@ -7,9 +7,6 @@ This project is a modern, interactive portfolio website deployed on AWS S3 for s
 
 Visit the live portfolio: [http://myportfolio1910.s3-website.eu-north-1.amazonaws.com/](http://myportfolio1910.s3-website.eu-north-1.amazonaws.com/)
 
-|  ![Portfolio Home]("C:\Users\tharu\OneDrive\Pictures\Screenshots\Portfolio SS-1.png") | ![Portfolio Projects]("C:\Users\tharu\OneDrive\Pictures\Screenshots\Portfolio SS-1.png") |
-|---|---|
-
 ## Features
 
 - **Interactive Cloud Background**: Dynamic animated cloud background using Vanta.js
