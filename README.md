@@ -1,7 +1,7 @@
 # Serverless Portfolio Website
 
 
-This project is a modern, interactive portfolio website deployed on AWS S3 for serverless hosting. It showcases my skills, projects, and experience as a Cloud Engineer and DevOps Practitioner with eye-catching animations and responsive design.
+This project is a modern, interactive portfolio website deployed on AWS S3 for serverless hosting. It showcases my skills, projects, and experience as a Cloud Practitioner and DevOps Practitioner with eye-catching animations and responsive design.
 
 ## Demo Site
 
